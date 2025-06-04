@@ -1,15 +1,15 @@
 # task-1
 # CREATE-A-JAVA-PROGRAM-TO-READ-WRITE-AND-MODIFY-TEXT-FILES.
 
-**college**: GSMCOE
+**college**: Jntugv college of enginnering
 
-**Name**: Samiksha Krishna Kadam
+**Name**: Geethika Reddy
 
-**INTERN ID**: CT12GSC
+**INTERN ID**: CTO8WR181
 
 **DOMAIN**: Java programming
 
-**BATCH DURATION**: December 25th, 2024 to February 25th, 2025.
+**BATCH DURATION**: April 10th to June 10th, 2025.
 
 **MENTOR NAME**: Neela Santhosh Kumar
 
